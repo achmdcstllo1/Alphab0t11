@@ -1,3 +1,3 @@
 /*
-Support channel ZEEONE OFC
+By Andrii Street Moonshine
 */
