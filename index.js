@@ -193,9 +193,9 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
-apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+baper = 'Add My Facebook'
+apiku = 'fb.me/andriistreetmoon'
+gc_wa_lu = 'https://chat.whatsapp.com/G2sqqakJTyl9KpFYAWzfEH' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
