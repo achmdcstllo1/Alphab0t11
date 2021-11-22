@@ -1,18 +1,18 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6283822759168",
+	"ownerNumberr": "6283822759168",
+	"cr": "@Andrii Street Moonshine",
+	"ownername": "Andrii Street Moonshine",
+	"botname":"-ANDRIIxBOTZ-",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  -ANDRIIxBOTZ-  」\nCreated By @Andrii Street Moonshine"
 }
